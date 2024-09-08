@@ -17,4 +17,4 @@ Instructions:
 4. Enter the second number.
 5. Click the button '=' to see the calculated result.
 6. Use the '.' button to add a number with a decimal point.
-7. Press the DEL button to clear any error.# calc
+7. Press the DEL button to clear any error.
